@@ -33,4 +33,3 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 - Merson Sandeep
 - Dhrubajyoti Paul
 
-"# LendingClubCaseStudy" 
