@@ -1,6 +1,6 @@
 # Lending Club Case Study
 
-### Group Id – 100093
+### Group ID – 100093
 
 
 ## Problem Statement:  
