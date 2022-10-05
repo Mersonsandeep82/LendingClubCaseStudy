@@ -31,5 +31,5 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 
 ### Contributors
 - Merson Sandeep
-- Dhrubajyoti Paul(https://github.com/dhruvjyoti895/)
+- [Dhrubajyoti Paul](https://github.com/dhruvjyoti895/)
 
