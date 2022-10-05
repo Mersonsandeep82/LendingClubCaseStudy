@@ -1,5 +1,8 @@
 # Lending Club Case Study
 
+### Group Id – 100093
+
+
 ## Problem Statement:  
 
 ``` 
@@ -30,6 +33,6 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 
 
 ### Contributors
-- Merson Sandeep
+- [Merson Sandeep](https://github.com/Mersonsandeep82)
 - [Dhrubajyoti Paul](https://github.com/dhruvjyoti895/)
 
